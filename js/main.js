@@ -117,7 +117,7 @@ PlayState.preload = function () {
     this.game.load.image('hero', 'images/hero_stopped.png', 32, 66);
     this.game.load.spritesheet('spider', 'images/g10.png', 33.6, 32);
     this.game.load.image('invisible-wall', 'images/invisible_wall.png');
-    this.game.load.spritesheet('coin', 'images/c4.png', 15, 22);
+    this.game.load.spritesheet('coin', 'images/Coin.gif', 15, 22);
     this.game.load.audio('sfx:stomp', 'audio/stomp.wav');
 };
 
